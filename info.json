@@ -1,0 +1,18 @@
+[
+    {
+        "name" :"Indhu",
+          "age":20,
+          "personality":"good",
+          "human":true
+
+
+
+    },
+    {
+        "name":"sasi",
+        "age":48,
+        "personality":"godlike",
+        "human":true
+    }
+
+]
